@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a05b2554.css",
+    "main.js": "/static/js/main.69227c1a.js",
+    "static/js/787.4e8c0110.chunk.js": "/static/js/787.4e8c0110.chunk.js",
+    "static/media/Línea revear blanco_imagen base_muetra.png": "/static/media/Línea revear blanco_imagen base_muetra.179997ea51ec39ad3e5f.png",
+    "static/media/2_muestra.png": "/static/media/2_muestra.136bfb71a23fedc8bd9c.png",
+    "static/media/3_muestra.png": "/static/media/3_muestra.7bfcf1c524ffd29d5e04.png",
+    "static/media/piedra_muestra.jpg": "/static/media/piedra_muestra.5ce1cf5b2f0faec2015d.jpg",
+    "static/media/ladrillos_muestra.jpg": "/static/media/ladrillos_muestra.96a2f286d35f6261f671.jpg",
+    "static/media/marmol_muestra.jpg": "/static/media/marmol_muestra.faf21175e0f0357f5b34.jpg",
+    "index.html": "/index.html",
+    "main.a05b2554.css.map": "/static/css/main.a05b2554.css.map",
+    "main.69227c1a.js.map": "/static/js/main.69227c1a.js.map",
+    "787.4e8c0110.chunk.js.map": "/static/js/787.4e8c0110.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a05b2554.css",
+    "static/js/main.69227c1a.js"
+  ]
+}
