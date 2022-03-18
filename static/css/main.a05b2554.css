@@ -139,7 +139,7 @@ img {
   border: solid #fff;
 }
 .exterior_02 {
-  background-image: url(./static/media/2_muestra.136bfb71a23fedc8bd9c.png);
+  background-image: url(../../static/media/2_muestra.136bfb71a23fedc8bd9c.png);
   background-size: cover;
   border: solid hsla(0, 0%, 100%, 0);
   border-radius: 25% 10%;
@@ -152,7 +152,7 @@ img {
   border: solid #fff;
 }
 .exterior_03 {
-  background-image: url(./static/media/3_muestra.7bfcf1c524ffd29d5e04.png);
+  background-image: url(../../static/media/3_muestra.7bfcf1c524ffd29d5e04.png);
   background-size: cover;
   border: solid hsla(0, 0%, 100%, 0);
   border-radius: 25% 10%;
@@ -176,7 +176,7 @@ img {
   row-gap: 10px;
 }
 .interior_01 {
-  background-image: url(./static/media/ladrillos_muestra.96a2f286d35f6261f671.jpg);
+  background-image: url(../../static/media/ladrillos_muestra.96a2f286d35f6261f671.jpg);
   background-size: cover;
   border: solid hsla(0, 0%, 100%, 0);
   border-radius: 25% 10%;
@@ -189,7 +189,7 @@ img {
   border: solid #fff;
 }
 .interior_02 {
-  background-image: url(./static/media/marmol_muestra.faf21175e0f0357f5b34.jpg);
+  background-image: url(../../static/media/marmol_muestra.faf21175e0f0357f5b34.jpg);
   background-size: cover;
   border: solid hsla(0, 0%, 100%, 0);
   border-radius: 25% 10%;
@@ -202,7 +202,7 @@ img {
   border: solid #fff;
 }
 .interior_03 {
-  background-image: url(./static/media/piedra_muestra.5ce1cf5b2f0faec2015d.jpg);
+  background-image: url(../../static/media/piedra_muestra.5ce1cf5b2f0faec2015d.jpg);
   background-size: cover;
   border: solid hsla(0, 0%, 100%, 0);
   border-radius: 25% 10%;
